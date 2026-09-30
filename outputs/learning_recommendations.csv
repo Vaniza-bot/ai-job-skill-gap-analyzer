@@ -1,0 +1,16 @@
+learning_area,job_count,priority,related_skills
+Deep Learning with PyTorch,3,High,deep learning
+Large Language Models (LLMs),2,Medium,"large language models, llm"
+TensorFlow and Deep Learning,2,Medium,tensorflow
+Retrieval-Augmented Generation (RAG),2,Medium,rag
+Statistics for Data Science,2,Medium,statistics
+Power BI for Data Analysis,2,Medium,power bi
+Scikit-learn for Machine Learning,1,Low,scikit-learn
+Artificial Intelligence Fundamentals,1,Low,artificial intelligence
+Tableau for Data Visualization,1,Low,tableau
+FastAPI for Python APIs,1,Low,fastapi
+PostgreSQL,1,Low,postgresql
+MySQL,1,Low,mysql
+Flask Web Development,1,Low,flask
+Computer Vision,1,Low,computer vision
+FAISS and Vector Databases,1,Low,faiss

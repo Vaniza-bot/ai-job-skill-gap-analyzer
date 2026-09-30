@@ -1,0 +1,9 @@
+job_id,title,skill_score,tfidf_score,semantic_score,matched_skills,missing_skills,hybrid_score
+1,Data Scientist,62.5,15.4,53.21,"['numpy', 'machine learning', 'python', 'pandas', 'sql']","['statistics', 'power bi', 'scikit-learn']",49.364000396728514
+2,Machine Learning Engineer,77.78,35.59,64.59,"['transformers', 'nlp', 'git', 'machine learning', 'python', 'docker', 'pytorch']","['deep learning', 'tensorflow']",64.06599853515625
+3,NLP Engineer,75.0,39.89,70.39,"['transformers', 'nlp', 'hugging face', 'python', 'pytorch', 'natural language processing']","['large language models', 'rag']",66.13400013732911
+4,AI Engineer,62.5,25.22,53.34,"['transformers', 'machine learning', 'python', 'docker', 'pytorch']","['deep learning', 'artificial intelligence', 'llm']",51.38000044250488
+5,Data Analyst,50.0,9.87,53.04,"['sql', 'python', 'pandas']","['statistics', 'tableau', 'power bi']",43.19000151062012
+6,Backend Developer,50.0,10.24,44.47,"['git', 'docker', 'python', 'sql']","['mysql', 'fastapi', 'postgresql', 'flask']",39.836000106811525
+7,Computer Vision Engineer,57.14,24.04,53.75,"['machine learning', 'python', 'numpy', 'pytorch']","['computer vision', 'deep learning', 'tensorflow']",49.164
+8,Generative AI Engineer,50.0,23.98,64.19,"['hugging face', 'python', 'transformers', 'pytorch']","['large language models', 'faiss', 'rag', 'llm']",50.47200059509277

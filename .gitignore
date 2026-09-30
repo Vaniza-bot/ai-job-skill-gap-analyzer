@@ -1,11 +1,37 @@
-venv/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+
+# Environment files
 .env
 .env.*
-.ipynb_checkpoints/
-node_modules/
-dist/
-build/
-uploads/
+
+# VS Code
+.vscode/
+
+# Python / ML cache
+.cache/
 *.log
+
+# Large model files
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+
+# OS files
+.DS_Store
+Thumbs.db

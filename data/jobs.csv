@@ -1,0 +1,9 @@
+job_id,title,description
+1,Data Scientist,"We are looking for a Data Scientist with strong Python, Pandas, NumPy, SQL, statistics, machine learning and scikit-learn skills. Experience with data visualization and Power BI is preferred."
+2,Machine Learning Engineer,"Looking for a Machine Learning Engineer experienced in Python, PyTorch, TensorFlow, deep learning, machine learning, Docker and Git. Knowledge of NLP and transformers is a plus."
+3,NLP Engineer,"The candidate should have experience with Python, NLP, natural language processing, transformers, Hugging Face, PyTorch and large language models. Experience with RAG is preferred."
+4,AI Engineer,"We are seeking an AI Engineer with experience in Python, machine learning, deep learning, artificial intelligence, PyTorch, transformers, LLMs and Docker."
+5,Data Analyst,"The ideal candidate has strong SQL, Python, Pandas, statistics, Excel and Power BI skills. Experience with data visualization and Tableau is desirable."
+6,Backend Developer,"We are looking for a backend developer with experience in Python, FastAPI, Flask, PostgreSQL, MySQL, Docker and Git. Knowledge of REST APIs is required."
+7,Computer Vision Engineer,"The candidate should have experience with Python, PyTorch, TensorFlow, deep learning, machine learning and computer vision. Experience with NumPy and OpenCV is preferred."
+8,Generative AI Engineer,"Looking for an engineer with experience in Python, large language models, LLMs, RAG, transformers, Hugging Face, FAISS and PyTorch."

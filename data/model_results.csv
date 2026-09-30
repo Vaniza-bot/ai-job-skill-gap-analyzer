@@ -1,0 +1,9 @@
+title,skill_score,tfidf_score,semantic_score,hybrid_score
+NLP Engineer,75.0,39.89,70.39,66.13400013732911
+Machine Learning Engineer,77.78,35.59,64.59,64.06599853515625
+AI Engineer,62.5,25.22,53.34,51.38000044250488
+Generative AI Engineer,50.0,23.98,64.19,50.47200059509277
+Data Scientist,62.5,15.4,53.21,49.364000396728514
+Computer Vision Engineer,57.14,24.04,53.75,49.164
+Data Analyst,50.0,9.87,53.04,43.19000151062012
+Backend Developer,50.0,10.24,44.47,39.836000106811525
