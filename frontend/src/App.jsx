@@ -1,3 +1,4 @@
+```jsx
 import { useState } from "react";
 import "./App.css";
 
@@ -20,7 +21,7 @@ function App() {
     setResults(null);
 
     try {
-      const response = await fetch("fetch("https://your-backend-url/analyze", {", {
+      const response = await fetch("https://your-backend-url/analyze", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -40,7 +41,7 @@ function App() {
       setResults(data);
     } catch (error) {
       setError(
-        "Could not connect to the AI backend. Make sure Flask is running."
+        "Could not connect to the AI backend. Make sure the backend is running."
       );
     } finally {
       setLoading(false);
@@ -154,7 +155,9 @@ function App() {
                     <p>{item.recommendation}</p>
                   </div>
 
-                  <span className={`priority ${item.priority.toLowerCase()}`}>
+                  <span
+                    className={`priority ${item.priority.toLowerCase()}`}
+                  >
                     {item.priority}
                   </span>
                 </div>
@@ -168,3 +171,4 @@ function App() {
 }
 
 export default App;
+```
